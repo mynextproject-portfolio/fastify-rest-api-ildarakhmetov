@@ -1,3 +1,3 @@
 function ping() {
-  return "{success: 'pong!!'}";
+  return "{success: 'pong!!!'}";
 }
